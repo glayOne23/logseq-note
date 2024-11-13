@@ -1,5 +1,5 @@
 ## Course Introduction
-	- test
+	- coba di sini
 - ## Module 1: Architecting Fundamentals
 - ## Module 2: Account Security
 - ## Module 3: Networking 1
