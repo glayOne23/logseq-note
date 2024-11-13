@@ -6,5 +6,8 @@
 	- Washed
 	  logseq.order-list-type:: number
 - ## 5 Proses Fermentasi
-	- 1. Anaerobic
+	- Anaerobic
+	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
+	- logseq.order-list-type:: number
 	-
